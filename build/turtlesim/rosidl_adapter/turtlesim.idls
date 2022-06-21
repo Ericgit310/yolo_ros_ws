@@ -1,0 +1,8 @@
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/eric/yolo_ros_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

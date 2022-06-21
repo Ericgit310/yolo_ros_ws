@@ -1,0 +1,6 @@
+Invoking command in '/home/eric/yolo_ros_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/eric/yolo_ros_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/eric/yolo_ros_ws/install/turtlesim
+Invoked command in '/home/eric/yolo_ros_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/eric/yolo_ros_ws/src/ros_tutorials/turtlesim -DCMAKE_INSTALL_PREFIX=/home/eric/yolo_ros_ws/install/turtlesim
+Invoking command in '/home/eric/yolo_ros_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/eric/yolo_ros_ws/build/turtlesim -- -j12 -l12
+Invoked command in '/home/eric/yolo_ros_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/eric/yolo_ros_ws/build/turtlesim -- -j12 -l12
+Invoking command in '/home/eric/yolo_ros_ws/build/turtlesim': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/eric/yolo_ros_ws/build/turtlesim
+Invoked command in '/home/eric/yolo_ros_ws/build/turtlesim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/eric/yolo_ros_ws/build/turtlesim
